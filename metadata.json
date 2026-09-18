@@ -1,0 +1,6 @@
+{
+  "name": "FlareShop",
+  "description": "FlareShop par Tiffany Inès Akowé — Box et cadeaux personnalisés, solutions entreprises et formation à l'entrepreneuriat créatif au Bénin et en Afrique de l'Ouest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
